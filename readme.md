@@ -1,7 +1,7 @@
 # Whatsapp Automation
 
 This repository was created as a learning path to understand Selenium(Python) for automation.
-It contains a python script to spam your target whatsapp contact with your customized message.
+It contains a python script to spam your target whatsapp contact with customized message(s).
 
 ## Installation
 
